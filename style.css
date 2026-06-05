@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+}
+
+.container {
+    width: 70%;
+    margin: 30px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+input {
+    padding: 8px;
+    width: 250px;
+}
+
+.error {
+    color: red;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.invalid {
+    border: 2px solid red;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#output {
+    background: #eee;
+    padding: 15px;
+}
